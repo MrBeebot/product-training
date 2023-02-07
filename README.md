@@ -13,3 +13,5 @@ This is a backup of the template pages for TR PRoduct Training / Knowledge Hub a
 - westlawprecision.html
 
 ##
+
+Be sure to check zip files for the most current. Thanks
